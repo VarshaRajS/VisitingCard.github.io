@@ -4,7 +4,8 @@ This is a visiting Card created using HTML and CSS. Building this project can he
 
 
 ## Built With:
--HTML
--CSS
+- HTML
+- CSS
 
 ## Live Link:
+https://varsharajs.github.io/VisitingCard.github.io/
