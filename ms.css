@@ -1,0 +1,37 @@
+div.main{
+    background-color: #495C83;
+    border: 2px solid black;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 5px;
+  }
+  div.qr{
+    background-color: #A8A4CE;
+    border: 2px dotted black;
+    padding: 0;
+  }
+  h1{
+    color: #71C9CE;
+    font-family: cursive;
+  }
+  h3.sub{
+    color: #71C9CE;
+    font-family: monospace;
+  }
+  img.mp{
+    width:200px;
+  }
+  hr{
+    border-style: none;
+    border-top-style: solid;
+    border-width:3px;
+    border-color: black;
+    width:40%;
+  }
+  ::selection{
+    background-color: #C6CFFF;
+    color: purple;
+  }
+ 
